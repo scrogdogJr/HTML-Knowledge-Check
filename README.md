@@ -7,6 +7,7 @@ This is a simple webiste that introduces board games, gives some simple product 
 - Image embedding
 - Border styling
 - Data table
+- Table headers
 - Text input
 - Email input
 - Text area input
